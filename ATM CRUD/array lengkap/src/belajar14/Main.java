@@ -10,7 +10,6 @@ public class Main {
         InputStreamReader reader = new InputStreamReader(System.in);
         BufferedReader input = new BufferedReader(reader);
         String buah[] = new String[5];
-        // String meja[baris][kolom];
         String meja[][] = new String[2][3]; // array multidimensi
         
         for(int i = 0; i < buah.length; i++){
